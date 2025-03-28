@@ -1,0 +1,61 @@
+{
+    "marketplace_packs": [
+        {
+            "id": "Feedsslabusech",
+            "version": "latest"
+        },
+        {
+            "id": "FeedBlocklist_de",
+            "version": "latest"
+        },
+        {
+            "id": "FeedBruteForceBlocker",
+            "version": "latest"
+        },
+        {
+            "id": "FeedLOLBAS",
+            "version": "latest"
+        },
+        {
+            "id": "FeedMalwareBazaar",
+            "version": "latest"
+        },
+        {
+            "id": "FeedMitreAttackv2",
+            "version": "latest"
+        },
+        {
+            "id": "SnortIPBlocklist",
+            "version": "latest"
+        },
+        {
+            "id": "FeedSpamhaus",
+            "version": "latest"
+        },
+        {
+            "id": "FeedTalos",
+            "version": "latest"
+        },
+        {
+            "id": "FeedTorExitAddresses",
+            "version": "latest"
+        },
+        {
+            "id": "FeedURLHaus",
+            "version": "latest"
+        },
+        {
+            "id": "FeedFeodoTracker",
+            "version": "latest"
+        },
+        {
+            "id": "TeamCymru",
+            "version": "latest"
+        },
+        {
+            "id": "FeedThreatFox",
+            "version": "latest"
+        }
+
+    ]
+}
