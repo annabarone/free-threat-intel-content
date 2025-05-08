@@ -1,8 +1,10 @@
 {
-    "post_config_doc": {
-        "url": "https://github.com/annabarone/free-threat-intel-content/blob/main/README.md",
-        "name": "Free Threat Intel - Manual Steps"
-    },
+    "post_config_docs": [
+        {
+            "url": "https://github.com/annabarone/free-threat-intel-content/blob/main/README.md",
+            "name": "Free Threat Intel - Manual Steps"
+        }
+    ],
     "marketplace_packs": [
         {
             "id": "Feedsslabusech",
