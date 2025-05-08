@@ -1,4 +1,5 @@
 {
+    "post_config_doc": "https://github.com/annabarone/free-threat-intel-content/blob/main/README.md",
     "marketplace_packs": [
         {
             "id": "Feedsslabusech",
